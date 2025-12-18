@@ -1,0 +1,29 @@
+# ---------- Core ----------
+numpy==1.26.4
+
+# ---------- OCR ----------
+easyocr==1.7.2
+opencv-python-headless==4.8.1.78
+scikit-image==0.22.0
+imageio==2.34.0
+tifffile==2024.2.12
+
+# ---------- PDF ----------
+pymupdf==1.24.9
+pillow==10.4.0
+
+# ---------- LLM / VLM ----------
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+
+transformers==4.45.2
+accelerate==0.34.2
+sentence-transformers==3.1.1
+
+# ---------- Vector DB ----------
+chromadb==0.5.5
+
+# ---------- Utils ----------
+regex
+
